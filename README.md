@@ -74,7 +74,14 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
   Grupo 0. De este grupo no se recluta ningun jugador
   
-  En el grupo se observan jugadores de estatura media 189.11 cm, y con valores medios más bajos, ne la mayoria de las características de los jugadores, en comparación a los integrenates de los cuatro grupos restantes. Por ejemplo, los valores de los indicadores free_kick_accuracy y finishing, son 14.313580 y 13.466667, que son los más bajos de los cinco grupos, y que tienen relación con características de definición frente al arco rival. Esto nos suguiere que quizá sus habilidades no estan relacionadas con hacer goles, quizá poseen caracteristicas más defensivas, pero en el caso de los indicadores de marking o standing_tackle, también presentan los valores más bajo de los grupos.
+  En el grupo se observan jugadores de estatura media 189.11 cm, y con altas puntuaciones en las variables 'reactions', 'jumping' y 'strength', que no tiene relación directa con el dominio del balón. Presenta las más bajas puntuaciones, en la mayoria de las características de los jugadores de los cuatro grupos restantes. Por ejemplo, los valores de los indicadores free_kick_accuracy y finishing, son 14.313580 y 13.466667, que son los más bajos de los cinco grupos, y que tienen relación con características de definición frente al arco rival. Esto nos suguiere que quizá sus habilidades no estan relacionadas con hacer goles, quizá poseen caracteristicas más defensivas, pero en el caso de los indicadores de marking o standing_tackle, también presentan los valores más bajo de los grupos. Al nalizar los datos de este grupo, se presentan nombres de arqueros y quien presenta una mayor puntuación en 'reactions', 'jumping' y 'strength', es
+
+   <div align="center">
+  
+  ![Grupo 0](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_0_1.png)
+
+  </div>
+
 
   Grupo 1. Se escogen 2 jugadores
 
@@ -116,7 +123,7 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
     <div align="center">
   
-  ![Grupo 4](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_4_3.png)
+  ![Grupo 4](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_4_2.png)
 
   </div>
 
@@ -127,21 +134,21 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
   <div align="center">
   
-  |     **Jugador**        | 
-  |:----------------------:|
-  |Christopher Samba       |
-  |George Elokobi          |
-  |Gonzalo Higuain         |
-  |Javier Hernandez        |
-  |Alban Meha              |
-  |Andrea Pirlo            |
-  |Christian Eriksen       |
-  |Hakan Calhanoglu        |
-  |Aleksandar Kolarov      |
-  |Leighton Baines         |
-  |Ricardo Rodriguez       |
+  |     **Jugador**        | Posición |
+  |:----------------------:|:-------:|
+  |Christopher Samba |defensa     |
+  |George Elokobi    |defensa      |
+  |Gonzalo Higuain   |delantero     |
+  |Javier Hernandez  |delantero    |
+  |Alban Meha        |centrocampista    |
+  |Andrea Pirlo      |centrocampista     |
+  |Christian Eriksen |centrocampista    |
+  |Hakan Calhanoglu  |centrocampista      |
+  |Aleksandar Kolarov|defensa  |
+  |Leighton Baines   |defensa  |
+  |Manuel Neuer      |arquero    |
   
-  
+  En el grupo de jugadores escogidos hay 4 de cuyo pierna más habíl para dominar el balón, es la pierna izquierda. Por otro lado, hay presencia de 4 defensores, 4 mediocampistas, 2 delanteros, y un arquero. Los 4 defensores fueron escogidos del grupo 1 y grupo 4, que tienen características distintas.  
 
   </div>
 
