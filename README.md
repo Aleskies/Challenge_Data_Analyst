@@ -49,8 +49,8 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
   
    <div align="center">
-  ![Cluster](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/total_goles_xpais.png)
-  </div>
+    ![goles por liga ](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/total_goles_xpais.png)
+   </div>
 
 ## Exploración de la información de los jugadores. 
 
