@@ -45,14 +45,24 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
 </div>
 
-  La mayor cantidad de partidos jugados en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en cada uno de los torneos. Las ligas de Inglaterra, Francia y España, son las que presentan mayor cantidad de partidos, y cuentan con 20 equipos, por cada temporada. Además, en estas 5 ligas se presenta una mayor cantidad de goles en la temporadas señaladas, lo que las hace atractivas para los asistentes a los partidos, televidentes y para quienes emiten estos partidos por televisión. Como caso del la liga de "Netherlands" quien cuenta con 18 equipos en el torneo, con una cantidad importante de goles en las temporadas desde 2008 al 2016. 
+  La mayor cantidad de partidos jugados en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en cada uno de los torneos. Las ligas de Inglaterra, Francia y España, son las que presentan mayor cantidad de partidos, y cuentan con 20 equipos, por cada temporada. Además, en estas 5 ligas se presenta una mayor cantidad de goles en la temporadas señaladas, lo que las hace atractivas para los asistentes a los partidos, televidentes, para quienes emiten estos partidos por televisión. Un caso particular, es la liga de "Netherlands" quien cuenta con 18 equipos en el torneo, con una cantidad importante de goles entre las temporadas desde 2008 al 2016, pero que no esta presente dentro de las ligas más destacadas en el ranking elaborado por IFFHS. 
 
   
    <div align="center">
 
-    ![](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/total_goles_xpais.png)
+  ![goles por liga ](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/total_goles_xpais.png)
    
    </div>
+
+   A continuación, se presenta un resumen de los goles anotados por equipos locales y visitas, en las temporadas que van desde el 2008 hasta el 2016, donde los respetivos promedios de goles están ordenados de forma descendente   
+
+   <div align="center">
+
+  ![goles por liga ](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/resumne_ligas.png)
+   
+   </div>
+
+   Nuevamente aparece la liga de "Netherlands" destacada con un mayor promedio de goles, mientras que	la liga de "Switzerland" aparece en segundo lugar.	
 
 ## Exploración de la información de los jugadores. 
 
