@@ -49,7 +49,9 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
   
    <div align="center">
-    ![goles por liga ](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/total_goles_xpais.png)
+
+    ![](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/total_goles_xpais.png)
+   
    </div>
 
 ## Exploración de la información de los jugadores. 
@@ -72,7 +74,9 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   Un pequeño resumen de las caracteristicas de cada uno de los 5 grupos se presenta a continuación
 
   <div align="center">
+
   ![Cluster](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/resumen_5_cluster.png)
+  
   </div>
 
   Obtenido los 5 grupos de jugadores, se realiza la siguiente clasificación en cada uno de ellos.
@@ -83,7 +87,7 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
    <div align="center">
   
-  ![Grupo 0](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_0_1.png)
+   ![Grupo 0](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_0_1.png)
 
    </div>
 
