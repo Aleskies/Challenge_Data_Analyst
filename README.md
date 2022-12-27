@@ -45,8 +45,12 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
 </div>
 
-  La mayor cantidad de partidos jugados en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en cada uno de los torneos. Las ligas de Inglaterra, Francia y España, son las que presentan mayor cantidad de partidos, y cuentan con 20 equipos, por cada temporada. 
+  La mayor cantidad de partidos jugados en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en cada uno de los torneos. Las ligas de Inglaterra, Francia y España, son las que presentan mayor cantidad de partidos, y cuentan con 20 equipos, por cada temporada. Además, en estas 5 ligas se presenta una mayor cantidad de goles en la temporadas señaladas, lo que las hace atractivas para los asistentes a los partidos, televidentes y para quienes emiten estos partidos por televisión. Como caso del la liga de "Netherlands" quien cuenta con 18 equipos en el torneo, con una cantidad importante de goles en las temporadas desde 2008 al 2016. 
 
+  
+   <div align="center">
+  ![Cluster](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/total_goles_xpais.png)
+  </div>
 
 ## Exploración de la información de los jugadores. 
 
@@ -67,8 +71,9 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
   Un pequeño resumen de las caracteristicas de cada uno de los 5 grupos se presenta a continuación
 
+  <div align="center">
   ![Cluster](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/resumen_5_cluster.png)
-
+  </div>
 
   Obtenido los 5 grupos de jugadores, se realiza la siguiente clasificación en cada uno de ellos.
 
@@ -80,7 +85,7 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
   ![Grupo 0](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_0_1.png)
 
-  </div>
+   </div>
 
 
   Grupo 1. Se escogen 2 jugadores
@@ -148,9 +153,11 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   |Leighton Baines   |defensa  |
   |Manuel Neuer      |arquero    |
   
+  </div>
+
   En el grupo de jugadores escogidos hay 4 de cuyo pierna más habíl para dominar el balón, es la pierna izquierda. Por otro lado, hay presencia de 4 defensores, 4 mediocampistas, 2 delanteros, y un arquero. Los 4 defensores fueron escogidos del grupo 1 y grupo 4, que tienen características distintas.  
 
-  </div>
+ 
 
   
   
