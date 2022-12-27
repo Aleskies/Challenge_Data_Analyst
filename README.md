@@ -45,25 +45,30 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
 </div>
 
-  La mayor cantidad de partidos que se presentan en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en la respectiva liga. En el caso de las ligas de Inglaterra, Francia y España, cada una de ellas cuenta con 20 equipos. 
+  La mayor cantidad de partidos jugados en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en cada uno de los torneos. Las ligas de Inglaterra, Francia y España, son las que presentan mayor cantidad de partidos, y cuentan con 20 equipos, por cada temporada. 
 
 
 ## Exploración de la información de los jugadores. 
 
-## Filtros y Selección de variables, para selección de jugadores.
+### Filtros y Selección de variables, para selección de jugadores.
   
   La base de datos Player y Player_Attributes, presenta características de jugadores de fútbol, de 11 ligas Europeas, donde se extraerá la información necesaria para conformar un equipo. 
 
 
-  ### - Supuestos y seleción de la muestra.
+  #### - Supuestos y seleción de la muestra.
   
-  Como ya se mencionó, la base de datos contiene información de los jugadores hasta el año 2016. Con esta información en mente, se considerará que el equipo está construido para la temporada 2017 con las características y valor de indicadores estadísticos de los jugadores del año 2016.
+  Como ya se mencionó, la base de datos contiene información de los jugadores hasta el año 2016. Con esta información en mente, se considerará que el equipo que se presenta en este trabajo, está formado para la temporada 2017 con las características y valor de indicadores estadísticos de los jugadores del año 2016.
   
-  ### - Filtros
+  #### - Filtros
   
-  Con la información de los jugadores del año 2016, se procede a identificar y tratar las observaciones duplicadas junto con aquellas que tienen alguna información perdida en alguna de sus columnas. Luego se realiza un análisis de correlación, utilizando el coeficiente de Spearman que tiene la característica de ser nás robusta a valores extremos. 
+  Con la información de los jugadores del año 2016, se procede a identificar y excluir las observaciones duplicadas, junto con aquellas que tienen alguna información perdida en alguna de sus columnas. Luego se realiza un análisis de correlación, utilizando el coeficiente de Spearman que tiene la característica de ser nás robusta a valores extremos. 
   
-  En primer lugar, se excluyen aquellas variables  
+  Una vez obtenido los valores de las correlaciones, se excluyen aquellas variables que tienen una correlación mayor o igual a 0.70. A continuación, con las variables numéricas que quedaron del paso anterior, se realiza un cluster con 5 agrupaciones, que tiene como foinalidad poder escoger un cantidad de jugadores de cada uno de los grupos, de modo que el conjunto obtenido sea un poco más heterogéneo, y se puedan complementar sus habilidades.
+  
+  Finalmente, luego de obtenido los 5 grupos de jugadores, se realiza la siguiente clasificación en cada uno de ellos.
+  
+  
+  
   
   ## Selección del equipo ideal.
   
@@ -75,4 +80,4 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
   
 
-## Sugerencias y propuestas de mejora
+
