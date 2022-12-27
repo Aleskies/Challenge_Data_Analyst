@@ -65,13 +65,18 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
   Una vez obtenido los valores de las correlaciones, se excluyen aquellas variables que tienen una correlación mayor o igual a 0.70. A continuación, con las variables numéricas que quedaron del paso anterior, se realiza un cluster con 5 agrupaciones, que tiene como finalidad poder escoger un cantidad de jugadores de cada uno de los grupos, de modo que el conjunto obtenido sea un poco más heterogéneo, y puedan complementar sus habilidades.
   
-  Finalmente, luego de obtenido los 5 grupos de jugadores, se realiza la siguiente clasificación en cada uno de ellos.
-
-  El grupo 
+  Un pequeño resumen de las caracteristicas de cada uno de los 5 grupos se presenta a continuación
 
   ![Cluster](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/resumen_5_cluster.png)
 
+
+  Obtenido los 5 grupos de jugadores, se realiza la siguiente clasificación en cada uno de ellos.
+
+  Grupo 0. De este grupo no se recluta ningun jugador
   
+  En el grupo se observan jugadores de estatura media 189.11, y con valores medios más bajos, ne la mayoria de las características de los jugadores, en comparación a los integrenates de los cuatro grupos restantes. Por ejemplo, los valores de los indicadores free_kick_accuracy y finishing, son 14.313580 y 13.466667, que son los más bajos de los cinco grupos, y que tienen relación con características de definición frente al arco rival. Esto nos suguiere que quizá sus habilidades no estan relacionadas con hacer goles, quizá poseen caracteristicas más defensivas, pero en el caso de los indicadores de marking o standing_tackle, también presentan los valores más bajo de los grupos.
+
+  Grupo 1.   
   
   
   
