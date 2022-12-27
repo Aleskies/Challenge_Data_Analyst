@@ -63,13 +63,13 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
   Con la información de los jugadores del año 2016, se procede a identificar y excluir las observaciones duplicadas, junto con aquellas que tienen alguna información perdida en alguna de sus columnas. Luego se realiza un análisis de correlación, utilizando el coeficiente de Spearman que tiene la característica de ser nás robusta a valores extremos. 
   
-  Una vez obtenido los valores de las correlaciones, se excluyen aquellas variables que tienen una correlación mayor o igual a 0.70. A continuación, con las variables numéricas que quedaron del paso anterior, se realiza un cluster con 5 agrupaciones, que tiene como foinalidad poder escoger un cantidad de jugadores de cada uno de los grupos, de modo que el conjunto obtenido sea un poco más heterogéneo, y se puedan complementar sus habilidades.
+  Una vez obtenido los valores de las correlaciones, se excluyen aquellas variables que tienen una correlación mayor o igual a 0.70. A continuación, con las variables numéricas que quedaron del paso anterior, se realiza un cluster con 5 agrupaciones, que tiene como finalidad poder escoger un cantidad de jugadores de cada uno de los grupos, de modo que el conjunto obtenido sea un poco más heterogéneo, y puedan complementar sus habilidades.
   
   Finalmente, luego de obtenido los 5 grupos de jugadores, se realiza la siguiente clasificación en cada uno de ellos.
 
   El grupo 
 
-  ![This is an image](imagenes\resumen_5_cluster.png)
+  ![Cluster](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/resumen_5_cluster.png)
 
   
   
