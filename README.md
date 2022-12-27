@@ -78,22 +78,74 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
   Grupo 1. Se escogen 2 jugadores
 
-  La media de estatura de este grupo de jugadores es 185.70 cm, y se organizan las siguiente variables en busca de 2 jugadores, con características más defensivas. Se consideran las mayores puntuaciones de las características de 'strength', 'jumping',  'stamina','aggression','sprint_speed' y 'long_passing', la selección corresponden a:
+  La media de estatura de este grupo de jugadores es 185.70 cm, y se organizan las siguiente variables en busca de 2 jugadores, con características más defensivas. Se consideran las mayores puntuaciones de las características de 'strength', 'jumping', 'stamina','aggression','sprint_speed' y 'long_passing', la selección corresponden a:
 
 
   <div align="center">
   
+  ![Defensas grupo 1](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_1_2.png)
+
+  </div>
+
+  Grupo 2. Se escogen 2 jugadores 
+
+  Se escogen 2 jugadores en función de las mejores puntuaciones de las características 
+  'finishing', 'heading_accuracy', 'sprint_speed', 'agility', 'reactions', 'aggression' en ese orden de prioridad. El propósito es escoger jugadores que tengan una mejor puntuación en característica relacionadas con jugadores más ofensivos, diferenete a la selección aneterior.  Se obtienen los siguientes resultados.
+
+  <div align="center">
+  
+  ![Grupo 2](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_2_2.png)
+
+  </div>
+
+  
+  Grupo 3. Se escogen 4 jugadores 
+
+  Este grupo de jugadores se caracteriza por tener tener una mayor habilidad en el dominio del balón y distribución de juego. Son aquellos jugadores que tienen las siguientes características: 'free_kick_accuracy', 'long_passing', 'sprint_speed' y 'agility', que son las que fueron consideradas para la selección de 3 jugadores, que son:
+
+  <div align="center">
+  
+  ![Grupo 3](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_3_4.png)
+
+  </div>
+
+  Grupo 4. Se escogen 3 jugadores  
+
+  Este grupo esta integrado por aquellos jugadores que tienen mayor puntuación en las siguientes características 
+  'crossing', 'free_kick_accuracy', 'long_passing', 'sprint_speed' y 'reactions', de caracter más ofensivo, complementando la selección realizada en el grupo anterior. 
+  
+    <div align="center">
+  
+  ![Grupo 4](https://github.com/Aleskies/Challenge_Data_Analyst/blob/main/imagenes/grupo_4_3.png)
+
+  </div>
 
 
-  
-</div>
-  
-  
   ## Selección del equipo ideal.
   
   El grupo de 11 jugadores corresponde a:
   
-  Los primeros de ellos se esogieron en función de 
+  <div align="center">
+  
+  |     **Jugador**        | 
+  |:----------------------:|
+  |Christopher Samba       |
+  |George Elokobi          |
+  |Gonzalo Higuain         |
+  |Javier Hernandez        |
+  |Alban Meha              |
+  |Andrea Pirlo            |
+  |Christian Eriksen       |
+  |Hakan Calhanoglu        |
+  |Aleksandar Kolarov      |
+  |Leighton Baines         |
+  |Ricardo Rodriguez       |
+  
+  
+
+  </div>
+
+  
   
   
   
