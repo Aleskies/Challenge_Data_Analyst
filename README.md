@@ -45,7 +45,7 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
 </div>
 
-  La mayor cantidad de partidos jugados en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en cada uno de los torneos. Las ligas de Inglaterra, Francia y España, son las que presentan mayor cantidad de partidos, y cuentan con 20 equipos, por cada temporada. Además, en estas 5 ligas se presenta una mayor cantidad de goles en la temporadas señaladas, lo que las hace atractivas para los asistentes a los partidos, televidentes, para quienes emiten estos partidos por televisión. Un caso particular, es la liga de "Netherlands" quien cuenta con 18 equipos en el torneo, con una cantidad importante de goles entre las temporadas desde 2008 al 2016, pero que no esta presente dentro de las ligas más destacadas en el ranking elaborado por IFFHS. 
+  La mayor cantidad de partidos jugados en cada una de las ligas, tiene directa relación con la cantidad de equipos participantes en cada uno de los torneos. Las ligas de Inglaterra, Francia y España, son las que presentan mayor cantidad de partidos, y cuentan con 20 equipos, por cada temporada. Además, en estas 5 ligas se presenta una mayor cantidad de goles en la temporadas señaladas, lo que las hace atractivas para los asistentes a los partidos, televidentes, para quienes emiten estos partidos por televisión. Un caso particular, es la liga de "Netherlands" quien cuenta con 18 equipos en el torneo, con una cantidad importante de goles entre las temporadas desde 2008 al 2016, pero que no esta presente dentro de las ligas más destacadas en el ranking elaborado por IFFHS. Los año 2009 y 2012, son donde la liga de "Netherlands", alcanza su mayor posición alcanzado el 8° lugar en el mundo. 
 
   
    <div align="center">
@@ -62,7 +62,7 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
    
    </div>
 
-   Nuevamente aparece la liga de "Netherlands" destacada con un mayor promedio de goles, mientras que	la liga de "Switzerland" aparece en segundo lugar.	
+   Nuevamente aparece la liga de "Netherlands" destacada con un mayor promedio de goles, mientras que	la liga de "Switzerland" aparece en segundo lugar, aún cuando presenta una baja cantidad de goles convertidos en este periodo. 	
 
 ## Exploración de la información de los jugadores. 
 
@@ -91,9 +91,9 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
   Obtenido los 5 grupos de jugadores, se realiza la siguiente clasificación en cada uno de ellos.
 
-  Grupo 0. De este grupo no se recluta ningun jugador
+  Grupo 0. Se escoge un jugador.
   
-  En el grupo se observan jugadores de estatura media 189.11 cm, y con altas puntuaciones en las variables 'reactions', 'jumping' y 'strength', que no tiene relación directa con el dominio del balón. Presenta las más bajas puntuaciones, en la mayoria de las características de los jugadores de los cuatro grupos restantes. Por ejemplo, los valores de los indicadores free_kick_accuracy y finishing, son 14.313580 y 13.466667, que son los más bajos de los cinco grupos, y que tienen relación con características de definición frente al arco rival. Esto nos suguiere que quizá sus habilidades no estan relacionadas con hacer goles, quizá poseen caracteristicas más defensivas, pero en el caso de los indicadores de marking o standing_tackle, también presentan los valores más bajo de los grupos. Al nalizar los datos de este grupo, se presentan nombres de arqueros y quien presenta una mayor puntuación en 'reactions', 'jumping' y 'strength', es
+  En el grupo se observan jugadores de estatura media 189.11 cm, y con altas puntuaciones en las variables 'reactions', 'jumping' y 'strength', que no tiene relación directa con el dominio del balón. Presenta las más bajas puntuaciones, en la mayoria de las características de los jugadores de los cuatro grupos restantes. Por ejemplo, los valores de los indicadores free_kick_accuracy y finishing, son 14.313580 y 13.466667, que son los más bajos de los cinco grupos, y que tienen relación con características de definición frente al arco rival. Esto nos suguiere que quizá sus habilidades no estan relacionadas con hacer goles, quizá poseen caracteristicas más defensivas, pero en el caso de los indicadores de marking o standing_tackle, también presentan los valores más bajo de los grupos. Al analizar los datos de este grupo, se presentan nombres de arqueros, y quien presenta una mayor puntuación en 'reactions', 'jumping' y 'strength', es:
 
    <div align="center">
   
@@ -170,9 +170,10 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   </div>
 
   En el grupo de jugadores escogidos hay 4 de cuyo pierna más habíl para dominar el balón, es la pierna izquierda. Por otro lado, hay presencia de 4 defensores, 4 mediocampistas, 2 delanteros, y un arquero. Los 4 defensores fueron escogidos del grupo 1 y grupo 4, que tienen características distintas.  
-
- 
-
+  
+  ## Consideraciones finales.
+  
+  La selección del equipo ideal presentado en este proyecto, solo consideró las características presentes en la base de datos, sin la intervención de algún criterio "experto" o tendencia a escoger candidatos, en relación a su nombre. Además, se reitera que la seección de los jugadores solo consideró las caracteríticas de la temporada 2016, para la formar el equipo 2017.
   
   
   
