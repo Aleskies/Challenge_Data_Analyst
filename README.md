@@ -74,10 +74,19 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
   Grupo 0. De este grupo no se recluta ningun jugador
   
-  En el grupo se observan jugadores de estatura media 189.11, y con valores medios más bajos, ne la mayoria de las características de los jugadores, en comparación a los integrenates de los cuatro grupos restantes. Por ejemplo, los valores de los indicadores free_kick_accuracy y finishing, son 14.313580 y 13.466667, que son los más bajos de los cinco grupos, y que tienen relación con características de definición frente al arco rival. Esto nos suguiere que quizá sus habilidades no estan relacionadas con hacer goles, quizá poseen caracteristicas más defensivas, pero en el caso de los indicadores de marking o standing_tackle, también presentan los valores más bajo de los grupos.
+  En el grupo se observan jugadores de estatura media 189.11 cm, y con valores medios más bajos, ne la mayoria de las características de los jugadores, en comparación a los integrenates de los cuatro grupos restantes. Por ejemplo, los valores de los indicadores free_kick_accuracy y finishing, son 14.313580 y 13.466667, que son los más bajos de los cinco grupos, y que tienen relación con características de definición frente al arco rival. Esto nos suguiere que quizá sus habilidades no estan relacionadas con hacer goles, quizá poseen caracteristicas más defensivas, pero en el caso de los indicadores de marking o standing_tackle, también presentan los valores más bajo de los grupos.
 
-  Grupo 1.   
+  Grupo 1. Se escogen 2 jugadores
+
+  La media de estatura de este grupo de jugadores es 185.70 cm, y se organizan las siguiente variables en busca de 2 jugadores, con características más defensivas. Se consideran las mayores puntuaciones de las características de 'strength', 'jumping',  'stamina','aggression','sprint_speed' y 'long_passing', la selección corresponden a:
+
+
+  <div align="center">
   
+
+
+  
+</div>
   
   
   ## Selección del equipo ideal.
