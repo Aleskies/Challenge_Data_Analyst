@@ -25,7 +25,7 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
 
   En las tablas Match, League, Country y Team, se encuentra información de 11 ligas Europeas, de las temporadas 2008/2009 hasta 2015/2016. 
   
-  Según el informe elaborado por la Federación Internacional de Historia y Estadística de Fútbol (IFFHS), que presnrea una clasificación anual de las ligas del mundo, se presenta a las ligas de España, Alemania, Inglaterra, Francia e Italia, como aquellas que se encuentran entre las mejores ligas del mundo. (Fuente: [Clasificación mundial de ligas nacionales de la IFFHS](https://es.wikipedia.org/wiki/Anexo:Clasificaci%C3%B3n_mundial_de_ligas_nacionales_de_la_IFFHS)).
+  Según el informe elaborado por la Federación Internacional de Historia y Estadística de Fútbol (IFFHS), que presenta una clasificación anual de las ligas del mundo, se presenta a las ligas de España, Alemania, Inglaterra, Francia e Italia, como aquellas que se encuentran entre las mejores ligas del mundo. (Fuente: [Clasificación mundial de ligas nacionales de la IFFHS](https://es.wikipedia.org/wiki/Anexo:Clasificaci%C3%B3n_mundial_de_ligas_nacionales_de_la_IFFHS)).
 
 <div align="center">
   
