@@ -173,7 +173,7 @@ Se cuenta con una base de datos con más de 25.000 partidos y 10.000 jugadores d
   
   ## Consideraciones finales.
   
-  La selección del equipo ideal presentado en este proyecto, solo consideró las características presentes en la base de datos, sin la intervención de algún criterio "experto" o tendencia a escoger candidatos, en relación a su nombre. Además, se reitera que la seección de los jugadores solo consideró las caracteríticas de la temporada 2016, para la formar el equipo 2017.
+ Es importante señalar que la selección del equipo ideal presentado en este proyecto se realizó únicamente tomando en cuenta las características presentes en la base de datos, sin la intervención de algún criterio "experto" o sesgos relacionados con el nombre de los candidatos. Asimismo, es necesario destacar que dicha selección se limitó a considerar únicamente las características correspondientes a la temporada 2016, con el objetivo de formar el equipo para la temporada 2017.
   
   
   
