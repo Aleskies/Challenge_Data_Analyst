@@ -1,4 +1,4 @@
-# Challenge Data Analyst
+# Challenge Data Analyst (Cluster)
 
 El objetivo del presente proyecto es explorar patrones para armar el mejor equipo de fútbol, considerando a los futbolistas de 11 ligas Europeas. 
 
